@@ -28,7 +28,7 @@ Publish Ver1.0|(1)虚拟力基础步态<br>  (2)梯度下降姿态解算<br>  (3
 Publish Ver1.1|(1)SDK开发    |(1)SDK开发<br>	(2)自适应步频<br>	(3)平稳速度S函数切换
 Publish Ver1.2|(1)梯度下降融合磁场+磁场干扰判断<br> (2)KF气压计高度融合<br>    (3)KF里程计位姿融合<br>    |(1)位置闭环控制+Jerk轨迹规划<br>   (2)跳跃API<br>   (3)SLIP模式<br> 	(4)梯度下降融合磁场+磁场干扰判断<br> (5)KF气压计高度融合<br>  (6)KF里程计位姿融合<br>   
 Publish Ver1.3|   |(1)双闭环姿态控制<br>   (2)全局控制器<br>   (3)修复姿态前馈 BUG<br>   (4)修复SDK BUG<br>   
-				
+Publish Ver1.3.1|   |(1)增加模型观测器提高角速度估计可靠性，步态更加稳定 (2)修复SDK BUG<br>   			
 官方机架taobao链接：https://item.taobao.com/item.htm?spm=a1z10.1-c.w4004-15110596499.22.6b86242c3mvjW9&id=589551490320
 <br>
 **-如果该项目对您有帮助请 Star 我们的项目-**<br>
