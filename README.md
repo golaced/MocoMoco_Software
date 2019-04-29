@@ -5,8 +5,9 @@
 
   ____该项目是OLDX-MocoMoco四足机器人（OLDX-MocoMoco Quadruped）各版本固件和开源程序的统一管理地址。<br><br>
 
-机器人测试视频更新地址：https://www.bilibili.com/video/av46405055  
-<br>
+机器人测试视频更新地址：https://www.bilibili.com/video/av46405055  <br>
+官方机架taobao链接：https://item.taobao.com/item.htm?spm=a1z10.1-c.w4004-15110596499.22.6b86242c3mvjW9&id=589551490320<br>
+
 **-搭建该项目的方式-**
 
 方式|说明|发货周期
@@ -29,8 +30,12 @@ Publish Ver1.1|(1)SDK开发    |(1)SDK开发<br>	(2)自适应步频<br>	(3)平�
 Publish Ver1.2|(1)梯度下降融合磁场+磁场干扰判断<br> (2)KF气压计高度融合<br>    (3)KF里程计位姿融合<br>    |(1)位置闭环控制+Jerk轨迹规划<br>   (2)跳跃API<br>   (3)SLIP模式<br> 	(4)梯度下降融合磁场+磁场干扰判断<br> (5)KF气压计高度融合<br>  (6)KF里程计位姿融合<br>   
 Publish Ver1.3|   |(1)双闭环姿态控制<br>   (2)全局控制器<br>   (3)修复姿态前馈 BUG<br>   (4)修复SDK BUG<br>   
 Publish Ver1.3.1|   |(1)增加模型观测器提高角速度估计可靠性，步态更加稳定 (2)修复SDK BUG<br>   			
-官方机架taobao链接：https://item.taobao.com/item.htm?spm=a1z10.1-c.w4004-15110596499.22.6b86242c3mvjW9&id=589551490320
-<br>
+
+百度盘地址：<br>
+Ver1.3:  提取码：17lp https://pan.baidu.com/s/12YHw7mHr14SStXLzhOFCYA  <br>
+Ver1.3.1:  提取码：rnps  https://pan.baidu.com/s/16ANZUE0nivEpSmH-OKxX-Q  <br>
+
+复制这段内容后打开百度网盘手机App，操作更方便哦
 **-如果该项目对您有帮助请 Star 我们的项目-**<br>
 **-如果您愿意分享对该项目的优化和改进请联系golaced@163.com或加入我们的QQ群567423074，加速开源项目的进度-**<br>
 
