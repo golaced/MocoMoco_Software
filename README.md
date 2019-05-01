@@ -29,7 +29,9 @@ Publish Ver1.0|(1)虚拟力基础步态<br>  (2)梯度下降姿态解算<br>  (3
 Publish Ver1.1|(1)SDK开发    |(1)SDK开发<br>	(2)自适应步频<br>	(3)平稳速度S函数切换
 Publish Ver1.2|(1)梯度下降融合磁场+磁场干扰判断<br> (2)KF气压计高度融合<br>    (3)KF里程计位姿融合<br>    |(1)位置闭环控制+Jerk轨迹规划<br>   (2)跳跃API<br>   (3)SLIP模式<br> 	(4)梯度下降融合磁场+磁场干扰判断<br> (5)KF气压计高度融合<br>  (6)KF里程计位姿融合<br>   
 Publish Ver1.3|   |(1)双闭环姿态控制<br>   (2)全局控制器<br>   (3)修复姿态前馈 BUG<br>   (4)修复SDK BUG<br>   
-Publish Ver1.3.1|   |(1)增加模型观测器提高角速度估计可靠性，步态更加稳定 (2)修复SDK BUG<br>   			
+Publish Ver1.3.1|   |(1)增加模型观测器提高角速度估计可靠性，步态更加稳定<br>  (2)修复SDK BUG<br>   			
+Publish Ver1.3.2|(1)增加GPS和外部罗盘驱动<br>  (2)增加SBUS遥控器控制<br>  (3)增加GPS导航<br> (4)航点写入和QG地面站Mavlink链路|		
+
 
 百度盘地址：<br>
 Ver1.3:  提取码： 17lp https://pan.baidu.com/s/12YHw7mHr14SStXLzhOFCYA  <br>
