@@ -5,6 +5,7 @@
 
   ____该项目是OLDX-MocoMoco四足机器人（OLDX-MocoMoco Quadruped）各版本固件和开源程序的统一管理地址。<br><br>
 
+机器人校准视频教程：https://www.bilibili.com/video/av51043941 <br>
 机器人测试视频更新地址：https://www.bilibili.com/video/av46405055  <br>
 官方机架taobao链接：https://item.taobao.com/item.htm?spm=a1z10.1-c.w4004-15110596499.22.6b86242c3mvjW9&id=589551490320<br>
 
@@ -34,11 +35,11 @@ Publish Ver1.3.2|(1)增加GPS和外部罗盘驱动<br>  (2)增加SBUS遥控器�
 
 
 百度盘地址：<br>
-Ver1.3:  提取码： 17lp https://pan.baidu.com/s/12YHw7mHr14SStXLzhOFCYA  <br>
-Ver1.3.1:  提取码： twvq  https://pan.baidu.com/s/14chFpgKWZHjGc4xXIKb-Fw <br>
+Ver1.3:  提取码： 17lp  链接：https://pan.baidu.com/s/12YHw7mHr14SStXLzhOFCYA  <br>
+Ver1.3.1:  提取码： twvq   链接：https://pan.baidu.com/s/14chFpgKWZHjGc4xXIKb-Fw <br>
 
 <br>
-KEIl5环境软件下载：<br>
+Keil5环境软件下载：<br>
 提取码：dxeu  链接：https://pan.baidu.com/s/1_3mZ_9vYUIQjBLj3DI84Ig <br>
 
 
