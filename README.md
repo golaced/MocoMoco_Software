@@ -37,7 +37,11 @@ Publish Ver1.3.2|(1)增加GPS和外部罗盘驱动<br>  (2)增加SBUS遥控器�
 Ver1.3:  提取码： 17lp https://pan.baidu.com/s/12YHw7mHr14SStXLzhOFCYA  <br>
 Ver1.3.1:  提取码： twvq  https://pan.baidu.com/s/14chFpgKWZHjGc4xXIKb-Fw <br>
 
-复制这段内容后打开百度网盘手机App，操作更方便哦
+<br>
+KEIl5环境软件下载：<br>
+提取码：dxeu  链接：https://pan.baidu.com/s/1_3mZ_9vYUIQjBLj3DI84Ig <br>
+
+
 **-如果该项目对您有帮助请 Star 我们的项目-**<br>
 **-如果您愿意分享对该项目的优化和改进请联系golaced@163.com或加入我们的QQ群567423074，加速开源项目的进度-**<br>
 
