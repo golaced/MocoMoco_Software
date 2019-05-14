@@ -32,13 +32,14 @@ Publish Ver1.1|(1)SDK开发    |(1)SDK开发<br>	(2)自适应步频<br>	(3)平�
 **Publish Ver1.3**|   |(1)双闭环姿态控制<br>   (2)全局控制器<br>   (3)修复姿态前馈 BUG<br>   (4)修复SDK BUG<br>   
 Publish Ver1.3.1|   |(1)增加模型观测器提高角速度估计可靠性，步态更加稳定<br>  (2)修复SDK BUG<br>   			
 Publish Ver1.3.2|(1)增加GPS和外部罗盘驱动<br>  (2)增加SBUS遥控器控制<br>  (3)增加GPS导航<br> (4)航点写入和QG地面站Mavlink链路|	(1)增加极坐标误差修正 <br>	 (2)增加大机架参数缩放 <br>
+Publish Ver1.3.3|(1)ROS下控制Node和树莓派键盘控制<br> (2)修复气压计融合引起的遥控器通讯终端|	(1)增加着地传感器提高步态稳定性 <br>
 
 
 百度盘地址：<br>
 Ver1.3:  提取码： 17lp  链接：https://pan.baidu.com/s/12YHw7mHr14SStXLzhOFCYA  <br>
 Ver1.3.1:  提取码： twvq   链接：https://pan.baidu.com/s/14chFpgKWZHjGc4xXIKb-Fw <br>
 Ver1.3.2:  提取码： h0nr    链接：https://pan.baidu.com/s/1A7bbyGE4d823Yo5dpqCAoA <br>
-
+Ver1.3.3:  提取码： f5sg    链接：https://pan.baidu.com/s/1g2UxnaU7_X75BwBaifMejw <br>
 <br>
 Keil5环境软件下载：<br>
 提取码：dxeu  链接：https://pan.baidu.com/s/1_3mZ_9vYUIQjBLj3DI84Ig <br>
