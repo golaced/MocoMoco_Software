@@ -35,6 +35,7 @@ Publish Ver1.3.2|(1)增加GPS和外部罗盘驱动<br>  (2)增加SBUS遥控器�
 Publish Ver1.3.3|(1)ROS下控制Node和树莓派键盘控制<br> (2)修复气压计融合引起的遥控器通讯终端|	(1)增加着地传感器提高步态稳定性 <br>
 Publish Ver1.3.4|(1)增加足底传感器STL打印文件|	(1)增加自触地机制 <br> (2)增加遥控软启动<br> (3)修复BUG
 Publish Ver1.3.5|(1)增加巡线SDK  <br>(2)增加无刷电机通讯控制接口 |	(1)修复BUG <br> (2)增加12Dof腿正逆解预留接口
+Publish Ver1.3.6|(1)增加了使用遥控器写入参数和授权码|	(1)修复跳跃模式BUG <br> (2)修复启动站立时前后移动的BUG<br> 
 
 百度盘地址：<br>
 Ver1.3:  提取码： 17lp  链接：https://pan.baidu.com/s/12YHw7mHr14SStXLzhOFCYA  <br>
@@ -43,6 +44,7 @@ Ver1.3.2:  提取码： h0nr    链接：https://pan.baidu.com/s/1A7bbyGE4d823Yo
 Ver1.3.3:  提取码： f5sg    链接：https://pan.baidu.com/s/1g2UxnaU7_X75BwBaifMejw <br>
 Ver1.3.4:  提取码： gkui    链接：https://pan.baidu.com/s/1IOWj-bF9VqdqwAu24S5L3Q <br>
 Ver1.3.5:  提取码： rfam    链接：https://pan.baidu.com/s/1EUbEgOLhX_r8qBonZ2Ts_Q <br>
+Ver1.3.6:  提取码： vq4o    链接：https://pan.baidu.com/s/12HEpyOe_MXspkF34WgIHWg <br>
 <br>
 Keil5环境软件下载：<br>
 提取码：dxeu  链接：https://pan.baidu.com/s/1_3mZ_9vYUIQjBLj3DI84Ig <br>
