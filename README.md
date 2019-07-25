@@ -27,7 +27,7 @@
 代码版本|开源代码说明|闭源VMC库说明
 -------------|--------------|-------------
 **Publish Ver1.0**|(1)虚拟力基础步态<br>  (2)梯度下降姿态解算<br>  (3)NRF射频通讯遥控<br>  (4)UCOS操作系统|(1)虚拟力+IMU自稳<br>  (2)动态步态+姿态调节
-Publish Ver1.1|(1)SDK开发    |(1)SDK开发<br>	(2)自适应步频<br>	(3)平稳速度S函数切换
+**Publish Ver1.1**|(1)SDK开发    |(1)SDK开发<br>	(2)自适应步频<br>	(3)平稳速度S函数切换
 **Publish Ver1.2**|(1)梯度下降融合磁场+磁场干扰判断<br> (2)KF气压计高度融合<br>    (3)KF里程计位姿融合<br>    |(1)位置闭环控制+Jerk轨迹规划<br>   (2)跳跃API<br>   (3)SLIP模式<br> 	(4)梯度下降融合磁场+磁场干扰判断<br> (5)KF气压计高度融合<br>  (6)KF里程计位姿融合<br>   
 **Publish Ver1.3**|   |(1)双闭环姿态控制<br>   (2)全局控制器<br>   (3)修复姿态前馈 BUG<br>   (4)修复SDK BUG<br>   
 Publish Ver1.3.1|   |(1)增加模型观测器提高角速度估计可靠性，步态更加稳定<br>  (2)修复SDK BUG<br>   			
@@ -36,7 +36,7 @@ Publish Ver1.3.3|(1)ROS下控制Node和树莓派键盘控制<br> (2)修复气压
 Publish Ver1.3.4|(1)增加足底传感器STL打印文件|	(1)增加自触地机制 <br> (2)增加遥控软启动<br> (3)修复BUG
 Publish Ver1.3.5|(1)增加巡线SDK  <br>(2)增加无刷电机通讯控制接口 |	(1)修复BUG <br> (2)增加12Dof腿正逆解预留接口
 Publish Ver1.3.6|(1)增加了使用遥控器写入参数和授权码|	(1)修复跳跃模式BUG <br> (2)修复启动站立时前后移动的BUG<br> 
-Publish Ver1.3.7|(1)增加了两轴云台控制和相应的SDK (2)增大了航向控制的限制|	(1)使用了包含机体高度的倒立摆确定落足点 <br> (2)使用ESO估计角角速度进行扰动控制<br> 
+Publish Ver1.3.7|(1)增加了两轴云台控制和相应的SDK<br>  (2)增大了航向控制的限制|	(1)使用了包含机体高度的倒立摆确定落足点 <br> (2)使用ESO估计角角速度进行扰动控制<br> 
 
 百度盘地址：<br>
 Ver1.3:  提取码： 17lp  链接：https://pan.baidu.com/s/12YHw7mHr14SStXLzhOFCYA  <br>
@@ -46,7 +46,7 @@ Ver1.3.3:  提取码： f5sg    链接：https://pan.baidu.com/s/1g2UxnaU7_X75Bw
 Ver1.3.4:  提取码： gkui    链接：https://pan.baidu.com/s/1IOWj-bF9VqdqwAu24S5L3Q <br>
 Ver1.3.5:  提取码： rfam    链接：https://pan.baidu.com/s/1EUbEgOLhX_r8qBonZ2Ts_Q <br>
 Ver1.3.6:  提取码： vq4o    链接：https://pan.baidu.com/s/12HEpyOe_MXspkF34WgIHWg <br>
-Ver1.3.7:  提取码： scs1    链接：https://pan.baidu.com/s/1bRbwOFXClFw-7eHWtSQezQ <br>
+Ver1.3.7:  提取码： fus6    链接：https://pan.baidu.com/s/1o1LZWnZVrDLRXrrpxFsDHA <br>
 
 <br>
 Keil5环境软件下载：<br>
