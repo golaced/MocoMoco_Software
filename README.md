@@ -48,7 +48,7 @@ Ver1.3.4:  提取码： gkui    链接：https://pan.baidu.com/s/1IOWj-bF9VqdqwA
 Ver1.3.5:  提取码： rfam    链接：https://pan.baidu.com/s/1EUbEgOLhX_r8qBonZ2Ts_Q <br>
 Ver1.3.6:  提取码： vq4o    链接：https://pan.baidu.com/s/12HEpyOe_MXspkF34WgIHWg <br>
 Ver1.3.7:  提取码： v2w8    链接：https://pan.baidu.com/s/1Xsng_G0Hcw-LPv8UHpsWZQ <br>
-Ver1.4.1:  提取码： zidy    链接：https://pan.baidu.com/s/1jRq_z8ZhfU4BexQRJRMD5g <br>
+Ver1.4.1:  提取码： mcot    链接：https://pan.baidu.com/s/1pMn9ojeyvXrph02dLD2M2g <br>
 <br>
 Keil5环境软件下载：<br>
 提取码：dxeu  链接：https://pan.baidu.com/s/1_3mZ_9vYUIQjBLj3DI84Ig <br>
